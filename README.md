@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/University_of_Kelaniya-6d28d9?style=flat-square&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Sri_Lanka-7c3aed?style=flat-square&logo=googlemaps&logoColor=white" />
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/achintha-sewmina-gamage-699665331"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:achinthasewmina22@gmail.com"><img src="https://img.shields.io/badge/Email-a855f7?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Sewmina-as"><img src="https://img.shields.io/badge/GitHub-c084fc?style=flat-square&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Sewmina-as&label=Views&color=c084fc&style=flat-square&labelColor=4c1d95" />
