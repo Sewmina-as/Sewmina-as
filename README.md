@@ -141,7 +141,7 @@ Analysis, modelling and ML-powered features.
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/achintha-sewmina-gamage-699665331"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:achinthasewmina22@gmail.com"><img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
