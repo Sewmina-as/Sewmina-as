@@ -114,6 +114,10 @@ Analysis, modelling and ML-powered features.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=REPO_NAME_4&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
 
+<br/><br/>
+
+<img src="https://tokei.rs/b1/github/Sewmina-as/OOP-Group-05_Project_2.2?category=code" alt="Lines of code" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f0abfc,50:c084fc,100:6d28d9&height=3" width="100%" />
