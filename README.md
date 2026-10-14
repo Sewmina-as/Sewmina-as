@@ -103,7 +103,7 @@ Analysis, modelling and ML-powered features.
 <a href="https://github.com/Sewmina-as/OOP-Group-05_Project_2.2">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=OOP-Group-05_Project_2.2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
-<!-- TODO: replace REPO_NAME_2..4 with your real repository names -->
+<!-- TODO: replace REPO_NAME_3..4 with your real repository names -->
 <a href="https://github.com/Sewmina-as/Heart-Failure-Prediction">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=Heart-Failure-Prediction&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
@@ -129,7 +129,7 @@ Analysis, modelling and ML-powered features.
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sewmina-as&show_icons=true&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&ring_color=d946ef" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&v=6&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff" />
 
 <br/>
 
