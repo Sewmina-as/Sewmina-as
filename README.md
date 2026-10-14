@@ -104,7 +104,7 @@ Analysis, modelling and ML-powered features.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=OOP-Group-05_Project_2.2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
 <!-- TODO: replace REPO_NAME_2..4 with your real repository names -->
-<a href="[https://github.com/Sewmina-as/REPO_NAME_2](https://github.com/Sewmina-as/Heart-Failure-Prediction)">
+<a href="https://github.com/Sewmina-as/Heart-Failure-Prediction">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=REPO_NAME_2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
 <a href="https://github.com/Sewmina-as/REPO_NAME_3">
