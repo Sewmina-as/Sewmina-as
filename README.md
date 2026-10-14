@@ -98,12 +98,12 @@ Analysis, modelling and ML-powered features.
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1500&color=C084FC&center=true&vCenter=true&width=400&height=50&lines=Featured+Projects" />
 </div>
 
-<!-- TODO: replace REPO_NAME_1..4 with your real repository names -->
 <div align="center">
 
 <a href="https://github.com/Sewmina-as/OOP-Group-05_Project_2.2">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=OOP-Group-05_Project_2.2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=OOP-Group-05_Project_2.2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
+<!-- add more projects here: replace REPO_NAME_x and uncomment
 <a href="https://github.com/Sewmina-as/REPO_NAME_2">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=REPO_NAME_2&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
@@ -113,6 +113,7 @@ Analysis, modelling and ML-powered features.
 <a href="https://github.com/Sewmina-as/REPO_NAME_4">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=REPO_NAME_4&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
+-->
 
 </div>
 
@@ -125,7 +126,7 @@ Analysis, modelling and ML-powered features.
 <br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sewmina-as&show_icons=true&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&ring_color=d946ef" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff" />
 
 <br/>
 
