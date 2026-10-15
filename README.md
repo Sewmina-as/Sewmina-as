@@ -108,7 +108,7 @@ Analysis, modelling and ML-powered features.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=Heart-Failure-Prediction&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
 <a href="https://github.com/VoxVision-Team/VoxVision">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=VoxVision-Team/VoxVision&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VoxVision-Team&repo=VoxVision&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
 </a>
 <a href="https://github.com/Sewmina-as/REPO_NAME_4">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sewmina-as&repo=REPO_NAME_4&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&border_color=8b5cf6" />
