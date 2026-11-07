@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,30:6d28d9,60:a855f7,85:c084fc,100:f0abfc&height=260&section=header&text=Achintha%20Sewmina%20Gamage&fontSize=44&fontColor=ffffff&stroke=ede9fe&strokeWidth=1&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Data%20Science%20%26%20AI&descSize=17&descColor=ffffff&descAlignY=58&animation=twinkling" width="100%" alt="Achintha Sewmina Gamage Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,30:6d28d9,60:a855f7,85:c084fc,100:f0abfc&height=260&section=header&text=Achintha%20Sewmina%20Gamage&fontSize=44&fontColor=ffffff&stroke=ede9fe&strokeWidth=1&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Data%20Science&descSize=17&descColor=ffffff&descAlignY=58&animation=twinkling" width="100%" alt="Achintha Sewmina Gamage Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+backend+systems;Crafting+full-stack+web+applications;Turning+data+into+intelligent+features" alt="Typing SVG" />
 
@@ -120,7 +120,7 @@
   <br/>
 
   <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sewmina-as&show_icons=true&include_all_commits=true&count_private=true&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&ring_color=d946ef" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sewmina-as&show_icons=true&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&icon_color=c084fc&text_color=f5f3ff&ring_color=d946ef" alt="GitHub Stats" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sewmina-as&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&border_color=8b5cf6&bg_color=1e1145&title_color=e9d5ff&text_color=f5f3ff" alt="Top Languages" />
   </p>
 
